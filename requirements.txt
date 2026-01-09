@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+websockets
+asyncio
+torch
+numpy
+silero-vad
+openai
+deepgram-sdk
+python-dotenv
